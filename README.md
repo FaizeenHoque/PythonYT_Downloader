@@ -12,6 +12,17 @@
 #! 2. Please do not Download someones YouTube video without explicit permission.
 #! 3. Please do not Harras someone by using their video against them.
 
-#* If you follow these rules, You have all rights to use this video downloader :
+#* If you follow these rules, You have all rights to use this video downloader.
+
+
+#HOW TO USE
+
+To use this open the terminal in the location of the main.py file then type this :
+
+`pip install -r requirements.txt`
+
+then :
+
+`python main.py`
 
 #@ ---------------😊 ENJOY -------------------------- @#
