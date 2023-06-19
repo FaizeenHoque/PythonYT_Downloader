@@ -15,7 +15,7 @@
 #* If you follow these rules, You have all rights to use this video downloader.
 
 
-#HOW TO USE
+# ---------------------------------------------------------------- HOW TO USE
 
 To use this open the terminal in the location of the main.py file then type this :
 
